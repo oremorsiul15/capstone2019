@@ -1,0 +1,77 @@
+[{
+    "nombre":"Gabriel",
+    "sexo":"M",
+    "studentNum":"802157732",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Celeste",
+    "sexo":"F",
+    "studentNum":"802119305",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Juan",
+    "sexo":"M",
+    "studentNum":"841146730",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Luis",
+    "sexo":"M",
+    "studentNum":"802166856",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Jesus",
+    "sexo":"M",
+    "studentNum":"840129408",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Fernando",
+    "sexo":"M",
+    "studentNum":"802137210",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Kelvin",
+    "sexo":"M",
+    "studentNum":"802146700",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Kevin",
+    "sexo":"M",
+    "studentNum":"845136448",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Herbert",
+    "sexo":"M",
+    "studentNum":"802145596",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Cristian",
+    "sexo":"M",
+    "studentNum":"802157464",
+    "history":[],
+    "hasAccess":true
+},
+{
+    "nombre":"Alexander",
+    "sexo":"M",
+    "studentNum":"802151388",
+    "history":[],
+    "hasAccess":true
+}]
