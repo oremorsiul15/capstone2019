@@ -51,10 +51,10 @@ app.post(
 	image:targetPath
 	})
 
-    	fs.writeFile("db.json", JSON.stringify(json))
+    	fs.writeFile("db.json", JSON.stringify(json,null, 4));
     })
 
-    if (path.extname(req.file.originalname).toLowerCase() === ".jpg"||req.file.originalname).toLowerCase() === ".png"||req.file.originalname).toLowerCase() === ".jpeg") {
+    if (path.extname(req.file.originalname).toLowerCase() === ".jpg"||path.extname(req.file.originalname).toLowerCase() === ".png"||path.extname(req.file.originalname).toLowerCase() === ".jpeg") {
       fs.rename(tempPath, targetPath, err => {
         if (err) return handleError(err, res);
 

@@ -1,0 +1,15 @@
+const fs = require("fs
+");
+
+var json = JSON.parse(data)
+        json.push({
+        nombre:req.body.stdName,
+        sexo:req.body.optionMF,
+        studentNum:req.body.stdNumber,
+        history:[],
+        hasAccess:req.body.hasAccess === 'on'?true:false,
+        image:targetPath
+        })
+
+        fs.writeFile("db.json", JSON.stringify(json,null, 4));
+
